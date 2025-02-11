@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/masa1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/masa_1" />
+
+    <Button
+        android:id="@+id/masa2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/masa_2" />
+
+    <Button
+        android:id="@+id/masa3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/masa_3" />
+
+    <Button
+        android:id="@+id/masa4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/masa_4" />
+    <Button
+        android:id="@+id/menuButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_sayfası"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center" />
+
+</LinearLayout>

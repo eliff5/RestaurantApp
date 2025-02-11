@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Restoran Sipariş Uygulaması</string>
+    <string name="welcome_message">Hoş Geldiniz!</string>
+
+    <string name="masa_1">Masa 1</string>
+    <string name="masa_2">Masa 2</string>
+    <string name="masa_3">Masa 3</string>
+    <string name="masa_4">Masa 4</string>
+    <string name="yemek_1_domates_corbasi" tools:ignore="DuplicateDefinition">Yemek 1: Domates Çorbası</string>
+    <string name="yemek_2_lahmacun">Yemek 2: Lahmacun</string>
+    <string name="yemek_3_salata" translatable="false">Yemek 3: Salata</string>
+
+    <string name="siparis_ver">Sipariş Ver</string>
+    <string name="siparis_onayi">Siparişiniz alınmıştır, teşekkür ederiz!</string>
+
+    <string name="Menu_sayfasi" translatable="false">Menü Sayfası</string>
+    <string name="error_message">Bir hata oluştu, lütfen tekrar deneyin.</string>
+    <string name="yeme_iniz_haz_rlan_yor_sipari_iniz_al_nd">Yemeğiniz hazırlanıyor, siparişiniz alındı.</string>
+    <string name="restoran_sipari_uygulamas">Restoran Sipariş Uygulaması</string>
+    <string name="yemek_1_mercimek_orbasi">Yemek 1: Mercimek Çorbası</string>
+    <string name="adet">Adet</string>
+    <string name="adett">Adet</string>
+    <string name="yemek_3_kisir">Yemek 3: Kısır</string>
+    <string name="adeti">Adeti</string>
+    <string name="siparisi_ver">Siparişi Ver</string>
+    <string name="menu_sayfasi">Menü Sayfası</string>
+    <string name="yemek_1_Domates_orbasi" tools:ignore="DuplicateDefinition" translatable="false">Yemek 1: Domates Çorbası</string>
+    <string name="menu_sayfası">menu_sayfasi\n</string>
+
+</resources>
